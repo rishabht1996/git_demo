@@ -3,3 +3,4 @@ y=20
 z=30
 res=x+y+z
 print res
+print "One more thing"
