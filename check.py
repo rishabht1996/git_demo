@@ -1,6 +1,7 @@
 x=10
 y=20
 z=30
-res=x+y+z
+a=40
+res=x+y+z+a
 print res
-print "One more thing"
+
